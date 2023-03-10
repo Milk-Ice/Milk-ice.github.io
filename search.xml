@@ -4,75 +4,11 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2023/03/09/test/"/>
-      <url>/2023/03/09/test/</url>
+      <title>校园网使用spacedesk丝滑体验ipad作为拓展屏</title>
+      <link href="/2023/03/10/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%BD%BF%E7%94%A8spacedesk%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cipad%E4%BD%9C%E4%B8%BA%E6%8B%93%E5%B1%95%E5%B1%8F/"/>
+      <url>/2023/03/10/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%BD%BF%E7%94%A8spacedesk%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cipad%E4%BD%9C%E4%B8%BA%E6%8B%93%E5%B1%95%E5%B1%8F/</url>
       
-        <content type="html"><![CDATA[<p>1111111111111111111111111111111111111</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>hexo的个性化配置</title>
-      <link href="/2023/03/09/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE-matery/"/>
-      <url>/2023/03/09/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE-matery/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>text</title>
-      <link href="/2023/03/09/text/"/>
-      <url>/2023/03/09/text/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/imgs/$%7Bfiilename%7D/avatar.jpg" alt="avatar"></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我的第一篇文章</title>
-      <link href="/2023/03/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2023/03/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/03/09/hello-world/"/>
-      <url>/2023/03/09/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>  开学到学校只能用校园网，但是由于校园网的带宽太小了，使用ipad 作为拓展屏的时候spacedesk的时候总是出现”connecting”然后一直连接不上的情况，或者卡在display off 界面进不去，又或者进去了之后十几分钟就退出来了，非常恼火，折腾了一番终于找到了完美的解决方案</p><p><strong>1.打开设置-&gt;热点</strong><img src="/../imgs/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cspacedesk%E6%8B%93%E5%B1%95%E5%B1%8F/image-20230310125653502.png" alt="image-20230310125653502"></p><p><strong>2.平板连接电脑的热点</strong></p><p><img src="/../imgs/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cspacedesk%E6%8B%93%E5%B1%95%E5%B1%8F/IMG_2132(20230310-125755).PNG" alt="IMG_2132(20230310-125755)"></p><p><strong>3.电脑打开spacedesk，再打开平板的spacedesk，点击connection即可连接成功</strong>~</p><p><img src="/../imgs/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cspacedesk%E6%8B%93%E5%B1%95%E5%B1%8F/F130AEA9C6EA7C36C4CF238EC47E88E8.png" alt="F130AEA9C6EA7C36C4CF238EC47E88E8"></p><p><strong>4.亲测丝滑流畅（开心）！！</strong></p>]]></content>
       
       
       

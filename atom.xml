@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-09T14:43:13.761Z</updated>
+  <updated>2023-03-10T05:11:55.844Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,91 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://example.com/2023/03/09/test/"/>
-    <id>http://example.com/2023/03/09/test/</id>
-    <published>2023-03-09T14:42:19.000Z</published>
-    <updated>2023-03-09T14:43:13.761Z</updated>
+    <title>校园网使用spacedesk丝滑体验ipad作为拓展屏</title>
+    <link href="http://example.com/2023/03/10/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%BD%BF%E7%94%A8spacedesk%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cipad%E4%BD%9C%E4%B8%BA%E6%8B%93%E5%B1%95%E5%B1%8F/"/>
+    <id>http://example.com/2023/03/10/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%BD%BF%E7%94%A8spacedesk%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cipad%E4%BD%9C%E4%B8%BA%E6%8B%93%E5%B1%95%E5%B1%8F/</id>
+    <published>2023-03-10T04:47:08.000Z</published>
+    <updated>2023-03-10T05:11:55.844Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;1111111111111111111111111111111111111&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hexo的个性化配置</title>
-    <link href="http://example.com/2023/03/09/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE-matery/"/>
-    <id>http://example.com/2023/03/09/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE-matery/</id>
-    <published>2023-03-09T09:30:37.529Z</published>
-    <updated>2023-03-09T09:33:13.093Z</updated>
-    
-    
-    
-    
-    <category term="hexo" scheme="http://example.com/categories/hexo/"/>
-    
-    
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>text</title>
-    <link href="http://example.com/2023/03/09/text/"/>
-    <id>http://example.com/2023/03/09/text/</id>
-    <published>2023-03-09T07:25:02.000Z</published>
-    <updated>2023-03-09T07:26:22.077Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/imgs/$%7Bfiilename%7D/avatar.jpg&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我的第一篇文章</title>
-    <link href="http://example.com/2023/03/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2023/03/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
-    <published>2023-03-09T06:56:34.000Z</published>
-    <updated>2023-03-09T06:56:34.705Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2023/03/09/hello-world/"/>
-    <id>http://example.com/2023/03/09/hello-world/</id>
-    <published>2023-03-09T06:54:57.061Z</published>
-    <updated>2023-03-09T06:54:57.061Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;  开学到学校只能用校园网，但是由于校园网的带宽太小了，使用ipad 作为拓展屏的时候spacedesk的时候总是出现”connecting”然后一直连接不上的情况，或者卡在display off</summary>
         
       
     
