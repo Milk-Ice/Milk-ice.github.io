@@ -4,8 +4,10 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="校园网使用spacedesk丝滑体验ipad作为拓展屏, HTML,CSS,JavaScript,JQuery,java,linux等">
-    <meta name="description" content="  开学到学校只能用校园网，但是由于校园网的带宽太小了，使用ipad 作为拓展屏的时候spacedesk的时候总是出现”connecting”然后一直连接不上的情况，或者卡在display off 界面进不去，又或者进去了之后十几分钟就退出">
+    <meta name="keywords" content="web-APLs, HTML,CSS,JavaScript,JQuery,java,linux等">
+    <meta name="description" content="web-APLS 第四天1.时间戳1.日期对象掌握 Date 日期对象的使用，动态获取当前计算机的时间。它需要借助 new 关键字才能使用。
+ // 1. 实例化
+  // const date = new Date(); // 系统默认时">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -17,7 +19,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>校园网使用spacedesk丝滑体验ipad作为拓展屏 | 绵绵冰Blog</title>
+    <title>web-APLs | 绵绵冰Blog</title>
     <link rel="icon" type="image/png" href="/favicon.png">
     
 
@@ -337,12 +339,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/23.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/1.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">校园网使用spacedesk丝滑体验ipad作为拓展屏</h1>
+                    <h1 class="description center-align post-title">web-APLs</h1>
                 </div>
             </div>
         </div>
@@ -387,7 +389,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    153
+                    957
                 </div>
                 
 
@@ -404,13 +406,111 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>  开学到学校只能用校园网，但是由于校园网的带宽太小了，使用ipad 作为拓展屏的时候spacedesk的时候总是出现”connecting”然后一直连接不上的情况，或者卡在display off 界面进不去，又或者进去了之后十几分钟就退出来了，非常恼火，折腾了一番终于找到了完美的解决方案</p>
-<p><strong>1.打开设置-&gt;热点</strong><img src="/../imgs/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cspacedesk%E6%8B%93%E5%B1%95%E5%B1%8F/image-20230310125653502.png" alt="image-20230310125653502"></p>
-<p><strong>2.平板连接电脑的热点</strong></p>
-<p><img src="/../imgs/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cspacedesk%E6%8B%93%E5%B1%95%E5%B1%8F/IMG_2132(20230310-125755).PNG" alt="IMG_2132(20230310-125755)"></p>
-<p><strong>3.电脑打开spacedesk，再打开平板的spacedesk，点击connection即可连接成功</strong>~</p>
-<p><img src="/../imgs/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cspacedesk%E6%8B%93%E5%B1%95%E5%B1%8F/F130AEA9C6EA7C36C4CF238EC47E88E8.png" alt="F130AEA9C6EA7C36C4CF238EC47E88E8"></p>
-<p><strong>4.亲测丝滑流畅（开心）！！</strong></p>
+                <h2 id="web-APLS-第四天"><a href="#web-APLS-第四天" class="headerlink" title="web-APLS 第四天"></a>web-APLS 第四天</h2><h3 id="1-时间戳"><a href="#1-时间戳" class="headerlink" title="1.时间戳"></a>1.时间戳</h3><h4 id="1-日期对象"><a href="#1-日期对象" class="headerlink" title="1.日期对象"></a>1.日期对象</h4><p>掌握 Date 日期对象的使用，动态获取当前计算机的时间。它需要借助 new 关键字才能使用。</p>
+<pre class=" language-javascript"><code class="language-javascript"> <span class="token comment" spellcheck="true">// 1. 实例化</span>
+  <span class="token comment" spellcheck="true">// const date = new Date(); // 系统默认时间</span>
+  <span class="token keyword">const</span> date <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Date</span><span class="token punctuation">(</span><span class="token string">'2020-05-01'</span><span class="token punctuation">)</span> <span class="token comment" spellcheck="true">// 指定时间</span>
+  <span class="token comment" spellcheck="true">// date 变量即所谓的时间对象</span>
+</code></pre>
+<h4 id="2-获取日期对象的方法"><a href="#2-获取日期对象的方法" class="headerlink" title="2.获取日期对象的方法"></a>2.获取日期对象的方法</h4><p><img src="/../imgs/web-APLs/image-20230310231503704.png" alt="image-20230310231503704"></p>
+<p>主题日期对象方法里面的月份和星期！！</p>
+<h4 id="3-获取时间戳"><a href="#3-获取时间戳" class="headerlink" title="3.获取时间戳"></a>3.获取时间戳</h4><p>-重点记住+newDate()因为可以返回当前时间戳或者指定的时间戳    ==+new Date（）==</p>
+<p><img src="/../imgs/web-APLs/image-20230310231950106.png" alt="image-20230310231950106"></p>
+<h3 id="2-节点操作-DOM节点"><a href="#2-节点操作-DOM节点" class="headerlink" title="2.节点操作-DOM节点"></a>2.节点操作-DOM节点</h3><p>节点类型主要是</p>
+<ul>
+<li><p><strong>元素节点</strong>所有的标签 比如 body、 div；html 是根节点</p>
+</li>
+<li><p>属性节点-所有的属性 比如 href，class属性</p>
+</li>
+<li><p>文本节点-所有的文本（比如标签里的文字）</p>
+</li>
+</ul>
+<h5 id="查找节点"><a href="#查找节点" class="headerlink" title="查找节点"></a>查找节点</h5><ul>
+<li><p>父节点查找-返回最近一级的父节点</p>
+<pre class=" language-javascript"><code class="language-javascript">子元素<span class="token punctuation">.</span>parentNode
+</code></pre>
+</li>
+<li><p>子节点查找父元素-children属性，仅仅获得所有的元素节点，返回的是一个伪数组</p>
+<pre><code>父元素.children
+</code></pre>
+</li>
+<li><p>查找节点</p>
+</li>
+</ul>
+<pre class=" language-javascript"><code class="language-javascript"><span class="token comment" spellcheck="true">//兄弟关系查找：</span>
+<span class="token comment" spellcheck="true">//下一个兄弟节点</span>
+nextElementSibling 属性
+<span class="token comment" spellcheck="true">// 上一个兄弟节点</span>
+previousElementSibling 属性
+</code></pre>
+<h5 id="增加节点"><a href="#增加节点" class="headerlink" title="增加节点"></a>增加节点</h5><p>一般情况下，我们新增节点，按照如下操作：</p>
+<ol>
+<li>创建一个新的节点(==创建==)</li>
+<li>把创建的新的节点放入到指定的元素内部（==追加==）</li>
+</ol>
+<pre class=" language-javascript"><code class="language-javascript"><span class="token comment" spellcheck="true">//创建一个新的元素节点</span>
+doucument<span class="token punctuation">.</span><span class="token function">creteElement</span><span class="token punctuation">(</span><span class="token string">'标签名'</span><span class="token punctuation">)</span>
+</code></pre>
+<pre class=" language-javascript"><code class="language-javascript"><span class="token comment" spellcheck="true">//追加节点</span>
+父元素<span class="token punctuation">.</span><span class="token function">appendChild</span><span class="token punctuation">(</span>要插入的元素<span class="token punctuation">)</span><span class="token comment" spellcheck="true">//注意这里没有引号哦</span>
+<span class="token comment" spellcheck="true">//插入到父元素中某个子元素的前面</span>
+父元素<span class="token punctuation">.</span><span class="token function">insertBefore</span><span class="token punctuation">(</span>要插入的元素<span class="token punctuation">,</span>在哪个元素前面<span class="token punctuation">)</span>
+</code></pre>
+<h6 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h6><p>学成在线案例渲染</p>
+<p>需求：按照数据渲染页面</p>
+<p>分析：</p>
+<p>①：准备好空的ul 结构</p>
+<p>②：根据数据的个数，创建一个新的空li</p>
+<p>③：li里面添加内容 img 标题等</p>
+<p>④：追加给ul</p>
+<p>重点练习：创建节点和追加节点</p>
+<p><img src="/../imgs/web-APLs/image-20230310233918971.png" alt="image-20230310233918971"></p>
+<pre class=" language-javascript"><code class="language-javascript">   <span class="token keyword">const</span> ul <span class="token operator">=</span> document<span class="token punctuation">.</span><span class="token function">querySelector</span><span class="token punctuation">(</span><span class="token string">'.box-bd ul'</span><span class="token punctuation">)</span>
+        <span class="token comment" spellcheck="true">// 1. 根据数据的个数，创建 对应的小li</span>
+        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">let</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> data<span class="token punctuation">.</span>length<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+            <span class="token comment" spellcheck="true">// 2. 创建新的小li</span>
+            <span class="token keyword">const</span> li <span class="token operator">=</span> document<span class="token punctuation">.</span><span class="token function">createElement</span><span class="token punctuation">(</span><span class="token string">'li'</span><span class="token punctuation">)</span>
+            <span class="token comment" spellcheck="true">// 把内容给li</span>
+            li<span class="token punctuation">.</span>innerHTML <span class="token operator">=</span> <span class="token template-string"><span class="token string">`
+                &lt;a href="#">
+                    &lt;img src=</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>data<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">.</span>src<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> alt="">
+                    &lt;h4>
+                        </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>data<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">.</span>title<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">
+                    &lt;/h4>
+                    &lt;div class="info">
+                        &lt;span>高级&lt;/span> • &lt;span></span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>data<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">.</span>num<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">&lt;/span>人在学习
+                    &lt;/div>
+                &lt;/a>
+            `</span></span>
+            <span class="token comment" spellcheck="true">// 3. ul追加小li</span>
+            ul<span class="token punctuation">.</span><span class="token function">appendChild</span><span class="token punctuation">(</span>li<span class="token punctuation">)</span>
+        <span class="token punctuation">}</span>
+</code></pre>
+<h5 id="增加节点-克隆节点"><a href="#增加节点-克隆节点" class="headerlink" title="增加节点(克隆节点)"></a>增加节点(克隆节点)</h5><p>特殊情况下，我们新增节点，按照如下操作：</p>
+<ol>
+<li>复制一个原有的节点</li>
+<li>把复制的节点放入到指定的元素内部</li>
+</ol>
+<pre class=" language-javascript"><code class="language-javascript"><span class="token comment" spellcheck="true">//克隆节点</span>
+元素<span class="token punctuation">.</span><span class="token function">cloneNode</span><span class="token punctuation">(</span>布尔值<span class="token punctuation">)</span>
+<span class="token comment" spellcheck="true">//若为true，则代表克隆时会包含后代节点一起克隆</span>
+<span class="token comment" spellcheck="true">//若为false，则代表克隆时不包含后代节点</span>
+<span class="token comment" spellcheck="true">//默认为false</span>
+</code></pre>
+<h5 id="删除节点"><a href="#删除节点" class="headerlink" title="删除节点"></a>删除节点</h5><p>在 JavaScript 原生DOM操作中，要删除元素必须通过<strong>父元素</strong>删除</p>
+<pre><code>父元素.removeChild(要删除的元素)
+</code></pre>
+<h3 id="3-M端事件"><a href="#3-M端事件" class="headerlink" title="3.M端事件"></a>3.M端事件</h3><p>比如触屏事件 touch（也称触摸事件），touch 对象代表一个触摸点。触摸点可能是一根手指、一根触摸笔等。触屏事件可响应用户手指（或触控笔）对屏幕或者触控板操作。常见的触屏事件如下：</p>
+<p><img src="/../imgs/web-APLs/image-20230310234829746.png" alt="image-20230310234829746"></p>
+<h3 id="4-JS插件"><a href="#4-JS插件" class="headerlink" title="4.JS插件"></a>4.JS插件</h3><p>插件: 就是别人写好的一些代码,我们只需要复制对应的代码,就可以直接实现对应的效果</p>
+<p>学习插件的基本过程</p>
+<ol>
+<li>熟悉官网,了解这个插件可以完成什么需求 <a target="_blank" rel="noopener" href="https://www.swiper.com.cn/">https://www.swiper.com.cn/</a></li>
+<li>看在线演示,找到符合自己需求的demo <a target="_blank" rel="noopener" href="https://www.swiper.com.cn/demo/index.html">https://www.swiper.com.cn/demo/index.html</a></li>
+<li>查看基本使用流程 <a target="_blank" rel="noopener" href="https://www.swiper.com.cn/usage/index.html">https://www.swiper.com.cn/usage/index.html</a></li>
+<li>查看APi文档,去配置自己的插件 <a target="_blank" rel="noopener" href="https://www.swiper.com.cn/api/index.html">https://www.swiper.com.cn/api/index.html</a></li>
+<li>注意: 多个swiper同时使用的时候, 类名需要注意区分</li>
+</ol>
 
                 
             </div>
@@ -437,7 +537,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://example.com/2023/03/10/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%BD%BF%E7%94%A8spacedesk%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cipad%E4%BD%9C%E4%B8%BA%E6%8B%93%E5%B1%95%E5%B1%8F/">http://example.com/2023/03/10/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%BD%BF%E7%94%A8spacedesk%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cipad%E4%BD%9C%E4%B8%BA%E6%8B%93%E5%B1%95%E5%B1%8F/</a>
+                    <a href="http://example.com/2023/03/10/web-APLs/">http://example.com/2023/03/10/web-APLs/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -551,9 +651,10 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
+                <i class="far fa-dot-circle"></i>&nbsp;本篇
+            </div>
             <div class="card">
                 <a href="/2023/03/10/web-APLs/">
                     <div class="card-image">
@@ -571,9 +672,9 @@
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2023-03-10
-                        </span>
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2023-03-10
+                            </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-user fa-fw"></i>
@@ -582,6 +683,7 @@
                         </span>
                     </div>
                 </div>
+
                 
             </div>
         </div>
@@ -589,7 +691,7 @@
         
         <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge right-badge text-color">
-                本篇&nbsp;<i class="far fa-dot-circle"></i>
+                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
                 <a href="/2023/03/10/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%BD%BF%E7%94%A8spacedesk%E4%B8%9D%E6%BB%91%E4%BD%93%E9%AA%8Cipad%E4%BD%9C%E4%B8%BA%E6%8B%93%E5%B1%95%E5%B1%8F/">
@@ -619,7 +721,6 @@
                         </span>
                     </div>
                 </div>
-
                 
             </div>
         </div>
